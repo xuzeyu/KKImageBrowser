@@ -22,11 +22,11 @@ Pod::Spec.new do |s|
   一个非常实用的图片预览工具。（防微信图片预览）
                        DESC
 
-  s.homepage         = 'https://github.com/HansenCCC/KKImageBrowser'
+  s.homepage         = 'https://github.com/xuzeyu/KKImageBrowser'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'chenghengsheng' => '2534550460@qq.com' }
-  s.source           = { :git => 'https://github.com/HansenCCC/KKImageBrowser.git', :tag => s.version.to_s }
+  s.author           = { 'xuzy' => 'topy-123@qq.com' }
+  s.source           = { :git => 'https://github.com/xuzeyu/KKImageBrowser.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '9.0'
